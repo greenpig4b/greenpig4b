@@ -1,23 +1,21 @@
 # 성장해나가는 개발자
 
 ## 🔭 노션 주소
-
-- 노션 주소: https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4
-- 
+https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4
+  
 ## 🌱 프로젝트
-### 이력서사이트
-(https://github.com/greenpig4b/project-grow)
-- 새로운 프로그래밍 언어
-- 클라우드 기술
-- 머신러닝 및 AI
+### 이력서사이트 v1
+https://github.com/greenpig4b/project-grow
 
-### 👯 함께 협업하고 싶은 부분
-- 오픈소스 프로젝트
-- 새로운 아이디어 및 혁신적인 프로젝트
+### 이력서사이트 v2
+https://github.com/greenpig4b/project-grow-v2
 
-### 🤔 도움이 필요한 부분
-- 특정 기술에 대한 조언
-- 프로젝트 피드백
+### 여기어때 Copy사이트
+백엔드 : https://github.com/greenpig4b/yeogi_copy
+프론트 : https://github.com/greenpig4b/yogio_project_flutter
+
+### ABOUTME 심리상담 사이트
+https://github.com/greenpig4b/spring-about-me
 
 ### 💬 언제든지 질문해주세요!
 - 특정 기술 또는 프로젝트에 대한 질문

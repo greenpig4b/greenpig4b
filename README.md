@@ -1,26 +1,10 @@
 # 성장해나가는 개발자
 
-<!--
-**greenpig4b/greenpig4b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 👋 안녕하세요! 저는 GreenPig4B입니다.
 
-### 🔭 현재 하고 있는 일
-- 프로젝트 A 개발
-- 오픈소스 프로젝트 B 유지 보수
+### 🔭 노션 주소
 
+- 이메일: [example@example.com](mailto:example@example.com)
 ### 🌱 배우고 있는 것
 - 새로운 프로그래밍 언어
 - 클라우드 기술

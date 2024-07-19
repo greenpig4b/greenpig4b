@@ -5,7 +5,7 @@ https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=
   
 ##  프로젝트 주소
 
-###🏢 이력서사이트 v1
+### 🏢 이력서사이트 v1
 https://github.com/greenpig4b/project-grow <br>
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white)
@@ -15,9 +15,7 @@ https://github.com/greenpig4b/project-grow <br>
 ![JPA](https://img.shields.io/badge/JPA-red?logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-green?logo=AndroidStudio&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
+
 
 ### 🏢 이력서사이트 v2
 https://github.com/greenpig4b/project-grow-v2 <br>
@@ -29,13 +27,11 @@ https://github.com/greenpig4b/project-grow-v2 <br>
 ![JPA](https://img.shields.io/badge/JPA-red?logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-green?logo=AndroidStudio&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
+
 
 
 ### 🏨 여기어때 Copy사이트
-백엔드 : https://github.com/greenpig4b/yeogi_copy
+백엔드 : https://github.com/greenpig4b/yeogi_copy <br>
 프론트 : https://github.com/greenpig4b/yogio_project_flutter <br>
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white)
@@ -60,9 +56,6 @@ https://github.com/greenpig4b/spring-about-me  <br>
 ![JPA](https://img.shields.io/badge/JPA-red?logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-green?logo=AndroidStudio&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
 
 
 ## 연락 방법

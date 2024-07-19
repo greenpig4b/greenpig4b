@@ -6,7 +6,7 @@
 - 
 ## 🌱 프로젝트
 ### 이력서사이트
-- [[https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4]()](https://github.com/greenpig4b/project-grow)]([mailto:example@example.com]
+(https://github.com/greenpig4b/project-grow)
 - 새로운 프로그래밍 언어
 - 클라우드 기술
 - 머신러닝 및 AI

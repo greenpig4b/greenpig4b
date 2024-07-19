@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=성장해나가는 개발자&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=성장해나가는 개발자&fontSize=40" />
 
 ## 노션 주소
 https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4

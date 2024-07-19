@@ -1,4 +1,4 @@
-## 대충 뭐들어가 타이틀 👋
+# 성장해나가는 개발자
 
 <!--
 **greenpig4b/greenpig4b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 
 ### 🔭 노션 주소
 
-- 이메일: [example@example.com](mailto:example@example.com)
+- 이메일: [https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4]([mailto:example@example.com](https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4)
 ### 🌱 배우고 있는 것
 - 새로운 프로그래밍 언어
 - 클라우드 기술

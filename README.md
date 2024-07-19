@@ -2,6 +2,7 @@
 
 
 ## 노션 주소
+
 https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4
   
 ##  프로젝트 주소
@@ -19,6 +20,7 @@ https://github.com/greenpig4b/project-grow <br>
 
 
 ### 🏢 이력서사이트 v2
+
 https://github.com/greenpig4b/project-grow-v2 <br>
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white)
@@ -32,6 +34,7 @@ https://github.com/greenpig4b/project-grow-v2 <br>
 
 
 ### 🏨 여기어때 Copy사이트
+
 백엔드 : https://github.com/greenpig4b/yeogi_copy <br>
 프론트 : https://github.com/greenpig4b/yogio_project_flutter <br>
 
@@ -48,6 +51,7 @@ https://github.com/greenpig4b/project-grow-v2 <br>
 
 
 ### 🌱 ABOUTME 심리상담 사이트
+
 https://github.com/greenpig4b/spring-about-me  <br>
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white)
@@ -60,8 +64,7 @@ https://github.com/greenpig4b/spring-about-me  <br>
 
 
 ## 연락 방법
-- 이메일: greeenpig4b@naver.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greenpig4b&show_icons=true)
+이메일: greeenpig4b@naver.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenpig4b&layout=compact)

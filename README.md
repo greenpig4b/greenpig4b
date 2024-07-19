@@ -68,4 +68,4 @@ https://github.com/greenpig4b/spring-about-me  <br>
 이메일: greeenpig4b@naver.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenpig4b&layout=compact)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=greenpig4b)](https://github.com/anuraghazra/github-readme-stats)

@@ -3,7 +3,7 @@
 
 ## 노션 주소
 
-https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4
+https://fuchsia-andesaurus-960.notion.site/7ae760dceab34443a7bbc8bfe4250343?pvs=4
   
 ##  프로젝트 주소
 

@@ -2,7 +2,7 @@
 
 ## 🔭 노션 주소
 
-- 노션 주소: https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4]([mailto:example@example.com](https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4)
+- 노션 주소: https://fuchsia-andesaurus-960.notion.site/e37e37fac8974ab4814005e6340bfd00?pvs=4
 - 
 ## 🌱 프로젝트
 ### 이력서사이트
